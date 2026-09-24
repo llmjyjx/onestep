@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OneStep</string>
+    <string name="accessibility_description">OneStep 顶部边缘手势和多任务快捷面板</string>
+</resources>
